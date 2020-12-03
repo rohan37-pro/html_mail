@@ -5,10 +5,8 @@ import time
 
 print('modules are import complete......')
 
-
-print('loading variables....')
+print('loading variables.......')
 time.sleep(1)
-
 
 user = 'example@gmail.com'
 password = 'password'
